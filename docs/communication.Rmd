@@ -39,4 +39,9 @@ To do:
 * Epicentre? (Matthieu)
 * Epiet (Matthieu)
 
+# Other R packages used in the covid-19 response
+
+* covid-19 datahub
+* covoid
+* NCovUtils
 
