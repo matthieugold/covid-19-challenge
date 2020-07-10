@@ -29,15 +29,18 @@ gantt
 dateFormat  YYYY-MM-DD
 title RECON COVID-19 CHALLENGE TIMELINE
 
-section User A
-Task 1                        :active,        user_a_1,   2020-07-10, 10d
-Task 2                        :active,        user_a_2,   after user_a_1, 50d
-Task 3                        :active,        user_a_3,   after user_a_2, 40d
-Task 4                        :               user_a_4,   2020-08-01, 100d
+section Milestones
+1. setup                      :done,          overall_1,   2020-06-20, 1d
+2. early stage assessment     :active         overall_2,  after overall_1, 2020-07-18   
+3. initial release            :               overall_3,  after overall_2, 2020-08-10
+4. mid-stage assessment       :               overall_4,  after overall_3, 2020-09-07
+5. second release             :               overall_5,  after overall_4, 2020-09-20
+6. task view epidemics        :               overall_6,  after overall_5, 2020-10-05
+7. final assessment           :               overall_7,  after overall_6, 2020-11-07
 
-section User B
-Task 1                        :               user_b_1,  2020-07-10, 2020-07-31
-task 2                        :               user_b_2,  2020-07-15, 2020-09-15
+section Matthieu
+
+section Benjamin
 ")
 ```
 
