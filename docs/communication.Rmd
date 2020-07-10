@@ -21,6 +21,8 @@ To do:
 
 # R developers
 
+"become part of the worldwide response to COVID-19"
+
 * r-bloggers (Matthieu)
 * local r user groups (France Matthieu)
 * r-ladies (Matthieu)
