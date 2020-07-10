@@ -1,0 +1,40 @@
+---
+title: "communication"
+author: "M. Rolland"
+date: "10/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+To do:
+
+* tutorial (video + text)?
+
+# Social media
+
+* twitter (Matthieu)
+* facebook (Matthieu)
+* linkedin (Matthieu)
+
+# R developers
+
+* r-bloggers (Matthieu)
+* local r user groups (France Matthieu)
+* r-ladies (Matthieu)
+* ropensci (Matthieu)
+* data kind (Matthieu)
+* stats without borders (Matthieu)
+* useR (Matthieu)
+* eRum (Matthieu)
+
+# Field epis
+
+* French FETP alumni (Matthieu)
+* Isped + Alima (Matthieu)
+* Epicentre? (Matthieu)
+* Epiet (Matthieu)
+
+

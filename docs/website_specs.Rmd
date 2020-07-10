@@ -1,0 +1,26 @@
+---
+title: "Website specs"
+author: "M. Rolland"
+date: "10/07/2020"
+output: html_document
+---
+
+static website; may use free and / or open-source content management systems (CMS)
+
+* sources of the website should use version control and be hosted on a public repository (ideally git/github)
+* provide a user-friendly interface listing existing R-tasks reflecting analytics needs for the response to COVID-19, each task pointing to a github issue; for a (more complex) example, see https://tasks.hotosm.org/explore
+* provide a streamlined way (e.g. through google forms) to submit new tasks from existing github issues
+* provide a streamlined way (e.g. through google forms) to submit new tasks without existing github issue, creating a new github issue on a dedicated repository on github.com/reconhub
+* provide a streamlined way to validate and curate tasks before publishing
+* implement priority grading system for tasks
+* implement difficulty grading system for tasks
+* implement labeling system for tasks
+* implement a search engine for tasks
+* implement filters for searching tasks
+
+Ideas:
+
+* Mobile compatible
+* automatic request notification? (twitter? email for those who wish? etc)
+* badge system to reward users? (low priority)
+
