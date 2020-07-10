@@ -1,0 +1,15 @@
+---
+title: "Launch meeting"
+author: "M. Rolland"
+date: "10/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: 
+
+Notes:
+

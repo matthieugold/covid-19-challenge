@@ -1,0 +1,48 @@
+---
+title: "RECON COVID-19 challenge"
+subtitle: "Project log"
+date: "last modified `r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+```{r}
+library(tidyverse)
+library(DiagrammeR)
+library(pander)
+```
+
+<br/>
+
+Project repo: https://github.com/matthieugold/covid19_challenge
+
+Project tasks: https://trello.com/b/HaKsz94j/covid-19-challenge
+
+<br/>
+
+```{r out.width = "100%", fig.height = 3}
+DiagrammeR::mermaid("
+gantt
+dateFormat  YYYY-MM-DD
+title RECON COVID-19 CHALLENGE TIMELINE
+
+section User A
+Task 1                        :active,        user_a_1,   2020-07-10, 10d
+Task 2                        :active,        user_a_2,   after user_a_1, 50d
+Task 3                        :active,        user_a_3,   after user_a_2, 40d
+Task 4                        :               user_a_4,   2020-08-01, 100d
+
+section User B
+Task 1                        :               user_b_1,  2020-07-10, 2020-07-31
+task 2                        :               user_b_2,  2020-07-15, 2020-09-15
+")
+```
+
+## Log
+
+2020-07-10: [Launch meeting](meeting_notes/2020-07-10_launch_meeting.html)
+
+
