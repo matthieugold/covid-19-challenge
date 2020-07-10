@@ -17,11 +17,11 @@ library(pander)
 
 <br/>
 
-Project repo: https://github.com/matthieugold/covid19_challenge
+[Project repo](https://github.com/matthieugold/covid19_challenge)
 
-Trello: https://trello.com/b/PQch7ney/covid19-challenge 
+[Link to Trello](https://trello.com/b/PQch7ney/covid19-challenge)
 
-Slack: https://app.slack.com/client/T2SFJJQRL/G016PGWRPAA/thread/C2SFJJV8E-1594388640.056600
+[Link to Slack](https://app.slack.com/client/T2SFJJQRL/G016PGWRPAA/thread/C2SFJJV8E-1594388640.056600)
 
 <br/>
 
@@ -32,13 +32,13 @@ dateFormat  YYYY-MM-DD
 title RECON COVID-19 CHALLENGE TIMELINE
 
 section Milestones
-1. setup                      :done,          overall_1,   2020-06-20, 1d
-2. early stage assessment     :active         overall_2,  after overall_1, 2020-07-18   
-3. initial release            :               overall_3,  after overall_2, 2020-08-10
-4. mid-stage assessment       :               overall_4,  after overall_3, 2020-09-07
-5. second release             :               overall_5,  after overall_4, 2020-09-20
-6. task view epidemics        :               overall_6,  after overall_5, 2020-10-05
-7. final assessment           :               overall_7,  after overall_6, 2020-11-07
+1. setup                      :done,          overall_1,   2020-07-10, 1d
+2. early stage assessment     :active         overall_2,  after overall_1, 2020-08-07   
+3. initial release            :               overall_3,  2020-08-08, 2020-08-30
+4. mid-stage assessment       :               overall_4,  after overall_3, 2020-09-27
+5. second release             :               overall_5,  after overall_4, 2020-10-10
+6. task view epidemics        :               overall_6,  after overall_5, 2020-10-25
+7. final assessment           :               overall_7,  after overall_6, 2020-11-27
 
 section Matthieu
 
