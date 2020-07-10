@@ -15,7 +15,7 @@ library(DiagrammeR)
 library(pander)
 ```
 
-<br/>
+## Useful links
 
 [Project repo](https://github.com/matthieugold/covid19_challenge)
 
@@ -23,7 +23,7 @@ library(pander)
 
 [Link to Slack](https://app.slack.com/client/T2SFJJQRL/G016PGWRPAA/thread/C2SFJJV8E-1594388640.056600)
 
-<br/>
+## Time line
 
 ```{r out.width = "100%", fig.height = 3}
 DiagrammeR::mermaid("
