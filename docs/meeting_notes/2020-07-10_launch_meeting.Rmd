@@ -9,7 +9,16 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Present: 
+Present: TJ, JS, BOU, MR
 
 Notes:
 
+* Switch timeline by 20 days
+* Ben will first start by doing a mockup version upon which we will build, should have something by next week
+* Communication through slack (day to day stuff) + email for things that need more tracability
+
+To do:
+
+* Ben to prepare mockup for next week
+* MR to get familiar with all recon packages
+* MR update timeline

@@ -19,7 +19,9 @@ library(pander)
 
 Project repo: https://github.com/matthieugold/covid19_challenge
 
-Project tasks: https://trello.com/b/HaKsz94j/covid-19-challenge
+Trello: https://trello.com/b/PQch7ney/covid19-challenge 
+
+Slack: https://app.slack.com/client/T2SFJJQRL/G016PGWRPAA/thread/C2SFJJV8E-1594388640.056600
 
 <br/>
 

@@ -17,6 +17,7 @@ static website; may use free and / or open-source content management systems (CM
 * implement labeling system for tasks
 * implement a search engine for tasks
 * implement filters for searching tasks
+* possibility to vote up and down
 
 Ideas:
 
