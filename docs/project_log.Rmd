@@ -51,5 +51,5 @@ section Benjamin
 ## Log
 
 2020-07-10: [Launch meeting](meeting_notes/2020-07-10_launch_meeting.html)
-2020-07-17: Review Recon packages, review covid19 related packages
+2020-07-17: [Meeting](meeting_notes/2020-07-17_meeting.html)
 
