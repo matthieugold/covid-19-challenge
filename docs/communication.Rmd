@@ -1,5 +1,5 @@
 ---
-title: "communication"
+title: "Communication"
 author: "M. Rolland"
 date: "10/07/2020"
 output: html_document
@@ -12,19 +12,24 @@ knitr::opts_chunk$set(echo = TRUE)
 To do:
 
 * tutorial (video + text)?
+* ask other member to complete once this is more advanced
 
 # Social media
 
 * twitter (Matthieu)
+  * create account
 * facebook (Matthieu)
+  * create page
 * linkedin (Matthieu)
+
+Hashtags: #rstats #recon
 
 # R developers
 
 "become part of the worldwide response to COVID-19"
 
 * r-bloggers (Matthieu)
-* local r user groups (France Matthieu)
+* local r user groups/RUGS (France Matthieu)
 * r-ladies (Matthieu)
 * ropensci (Matthieu)
 * data kind (Matthieu)
@@ -39,9 +44,10 @@ To do:
 * Epicentre? (Matthieu)
 * Epiet (Matthieu)
 
-# Other R packages used in the covid-19 response
+# Conferences
 
-* covid-19 datahub
-* covoid
-* NCovUtils
+* user
+* erum
+* amstat
+
 
