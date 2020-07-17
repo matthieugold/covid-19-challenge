@@ -2,14 +2,45 @@
 title: "Covid-19 packages"
 author: "M. Rolland"
 date: "17/07/2020"
-output: html_document
+output: 
+  html_document:
+    number_sections: TRUE
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```
 
+```{r}
+library(tidyverse)
+library(pkgsearch)
+library(kableExtra)
+```
+
+This document lists all major covid-19 and epidemiology packages.
+
 # Covid 19 specific
+
+## Automated search
+
+```{r echo = TRUE}
+# list epidemiology packages
+cov19 <- pkg_search(query="covid covid19 coronavirus",size=200)
+```
+
+```{r}
+# filter those with score > 10 and > 500 downloads last month
+cov19 <- as_tibble(cov19) %>% 
+  filter(score >= 10) %>% 
+  select(package,title, downloads_last_month) %>% 
+  arrange(-downloads_last_month)
+
+cov19 %>%
+  kable(caption = "Covid 19 packages") %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+```
+
+## Manual search
 
 Mainly from [Top 100 R resources on Novel COVID-19 Coronavirus - 12-03-2020](https://www.statsandr.com/blog/top-r-resources-on-covid-19-coronavirus/)
 
@@ -24,10 +55,31 @@ Mainly from [Top 100 R resources on Novel COVID-19 Coronavirus - 12-03-2020](htt
 
 # Epidemiology
 
+## Automated search
+
+```{r echo = TRUE}
+# list epidemiology packages
+epi <- pkg_search(query="epidemiology epidemic",size=200)
+```
+
+
+```{r}
+# filter those with score > 10 and > 500 downloads last month
+epi <- as_tibble(epi) %>% 
+  filter(score >= 10) %>% 
+  select(package,title,downloads_last_month) %>% 
+  arrange(-downloads_last_month)
+
+epi %>%
+  kable(caption = "Epi packages") %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+```
+
 
 
 # Interesting links
 
-[Top 100 R resources on Novel COVID-19 Coronavirus - 12-03-2020](https://www.statsandr.com/blog/top-r-resources-on-covid-19-coronavirus/)
-[An R View into Epidemiology](https://www.r-bloggers.com/an-r-view-into-epidemiology/)
+[Top 100 R resources on Novel COVID-19 Coronavirus - 12-03-2020](https://www.statsandr.com/blog/top-r-resources-on-covid-19-coronavirus/)  
+[An R View into Epidemiology - 19-05-2020](https://www.r-bloggers.com/an-r-view-into-epidemiology/)
+
 
