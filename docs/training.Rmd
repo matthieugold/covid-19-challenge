@@ -9,4 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-https://www.r-bloggers.com/covid-19-epidemiology-with-r/
+https://www.r-bloggers.com/covid-19-epidemiology-with-r/  
+https://www.springer.com/gp/book/9783319974866  
+https://www.coursera.org/learn/epidemics  
+https://www.cdc.gov/csels/dsepd/ss1978/lesson1/index.html  
