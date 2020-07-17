@@ -23,6 +23,8 @@ library(pander)
 
 [Link to Slack](https://app.slack.com/client/T2SFJJQRL/G016PGWRPAA/thread/C2SFJJV8E-1594388640.056600)
 
+[Documents created by Matthieu](https://matthieugold.github.io/covid-19-challenge/docs/document_list.html)
+
 ## Time line
 
 ```{r out.width = "100%", fig.height = 3}
@@ -49,5 +51,5 @@ section Benjamin
 ## Log
 
 2020-07-10: [Launch meeting](meeting_notes/2020-07-10_launch_meeting.html)
-
+2020-07-17: Review Recon packages, review covid19 related packages
 
