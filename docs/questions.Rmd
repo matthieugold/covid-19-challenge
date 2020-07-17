@@ -1,0 +1,27 @@
+---
+title: "questions for thibaut"
+author: "M. Rolland"
+date: "17/07/2020"
+output: html_document
+---
+
+Recon – lifecycle
+
+* where did recon come from?
+* Where is it now? 
+* Where is it going? what is recon’s ambition?
+
+Recon development
+
+* who are the main developers?
+* how are the development decisions made? Prioritised?
+* what are the current major developments?
+
+Recon in use
+
+* who are recon users?
+* how much is recon used? What is the dynamic?
+* are some packages more used than others?
+* is there any recon tutorial? Training? How is it taught?
+* is recon self sufficient to deal with an outbreak?
+
