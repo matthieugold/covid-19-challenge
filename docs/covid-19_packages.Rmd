@@ -1,0 +1,33 @@
+---
+title: "Covid-19 packages"
+author: "M. Rolland"
+date: "17/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Covid 19 specific
+
+Mainly from [Top 100 R resources on Novel COVID-19 Coronavirus - 12-03-2020](https://www.statsandr.com/blog/top-r-resources-on-covid-19-coronavirus/)
+
+* [{nCov2019}](https://github.com/GuangchuangYu/nCov2019): access to epidemiological data on the Coronavirus outbreak. Gives real-time statistics, includes historical data and a Shiny app. ([vignette](https://guangchuangyu.github.io/nCov2019/))
+* [{coronavirus}](https://github.com/RamiKrispin/coronavirus): provides a tidy format dataset of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic
+* [{tidycovid19}](https://github.com/joachim-gassen/tidycovid19): download, tidy and visualize Covid-19 related data (including data on governmental measures) directly from authoritative sources
+* [{covdata}](https://kjhealy.github.io/covdata/): provides COVID-19 case data from multiple sources
+* [{covid19italy}](https://github.com/Covid19R/covid19italy): provides a tidy format dataset of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) pandemic outbreak in Italy ([vignette](https://covid19r.github.io/covid19italy/articles/intro.html))
+* [{COVID19}](https://covid19datahub.io/): provide the research community with a unified data hub 
+* [{COVOID}](https://cbdrh.github.io/covoidance/): modelling COVID-19 and other infectious diseases using deterministic compartmental models (DCMs)
+* [{cdccovidview}](https://cinc.rud.is/web/packages/cdccovidview/index.html): used to work with the U.S. CDC’s New COVID-19 Trackers: [COVIDView](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html) and [COVID-NET](https://gis.cdc.gov/grasp/COVIDNet/COVID19_3.html)
+
+# Epidemiology
+
+
+
+# Interesting links
+
+[Top 100 R resources on Novel COVID-19 Coronavirus - 12-03-2020](https://www.statsandr.com/blog/top-r-resources-on-covid-19-coronavirus/)
+[An R View into Epidemiology](https://www.r-bloggers.com/an-r-view-into-epidemiology/)
+
