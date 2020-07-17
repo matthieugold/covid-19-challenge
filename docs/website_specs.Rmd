@@ -19,6 +19,10 @@ static website; may use free and / or open-source content management systems (CM
 * implement filters for searching tasks
 * possibility to vote up and down
 
+Site map:
+
+
+
 Ideas:
 
 * Mobile compatible
