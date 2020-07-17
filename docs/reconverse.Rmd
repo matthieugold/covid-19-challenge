@@ -1,0 +1,30 @@
+---
+title: "Recon-verse"
+author: "M. Rolland"
+date: "17/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Released projects and packages
+
+* **distcrete**: Discretized probability distributions. ([vignette](https://www.repidemicsconsortium.org/distcrete/articles/distcrete.html))
+* **EpiEstim**: Quantifying transmissibility throughout an epidemic from incidence time series. ([vignette](https://cran.r-project.org/web/packages/EpiEstim/vignettes/demo.html))
+* **earlyR**: Estimation of infectiousness in the early stage of an outbreak. ([vignette](http://www.repidemicsconsortium.org/earlyR/articles/earlyR.html))
+* **epicontacts**: Handling, visualisation and analysis of epidemiological contacts. 
+* **epitrix**: Small helpers and tricks for epidemics analysis. ([vignette](https://www.repidemicsconsortium.org/epitrix/articles/epitrix.html))
+* **incidence**: Computation, handling, visualisation and simple modelling of incidence.
+* **aweek**: Convert dates to arbitrary week definitions including epiweek, isoweek, and more. ([vignette](https://www.repidemicsconsortium.org/aweek/))
+* **outbreaker2**: Modular framework for outbreak reconstruction.
+* **outbreaks**: Collection of outbreak data.
+* **projections**: Projections of future incidence.
+* **epiflows**: Visualisation and analysis of passenger flows.
+
+[RECON learn](https://www.reconlearn.org/)
+
+
+
+

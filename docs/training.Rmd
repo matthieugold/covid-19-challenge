@@ -1,0 +1,12 @@
+---
+title: "Training resources"
+author: "M. Rolland"
+date: "17/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+https://www.r-bloggers.com/covid-19-epidemiology-with-r/

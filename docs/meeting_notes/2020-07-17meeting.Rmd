@@ -1,0 +1,27 @@
+---
+title: "Meeting"
+author: "M. Rolland"
+date: "10/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: BOU, MR
+
+Agenda:
+
+* Different steps + timeline of developing the site
+* Site "layout/map"?
+* How can I help: what and when?
+* Confirm weekly meet
+* Do we have a platform name? Domain name?
+
+Notes:
+
+
+To do:
+
+
