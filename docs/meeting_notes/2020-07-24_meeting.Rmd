@@ -1,0 +1,23 @@
+---
+title: "Meeting"
+author: "M. Rolland"
+date: "24/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**MEETING POSTPONED - BEN SICK**
+
+Agenda:
+
+* Status update
+* Link with github?
+  
+Done since last time:
+
+Meeting notes:
+
+To do:

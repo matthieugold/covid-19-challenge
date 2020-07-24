@@ -1,7 +1,7 @@
 ---
 title: "Meeting"
 author: "M. Rolland"
-date: "10/07/2020"
+date: "17/07/2020"
 output: html_document
 ---
 
@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Present: BOU, MR
 
 Agenda:
-
+  
 * Status update
 * Different steps + timeline of developing the site
 * Site "layout/map"?
