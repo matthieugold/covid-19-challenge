@@ -2,8 +2,13 @@
 title: "Website specs"
 author: "M. Rolland"
 date: "10/07/2020"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    number_sections: true
 ---
+
+# Job offer specs
 
 static website; may use free and / or open-source content management systems (CMS)
 
@@ -19,9 +24,39 @@ static website; may use free and / or open-source content management systems (CM
 * implement filters for searching tasks
 * possibility to vote up and down
 
-Site map:
+# Link with github
 
+* Should all users have a github account?
+* Should we ask for authorisation to pull github info? (profile pic etc?)
 
+# Site map
+
+## Home page
+
+* about
+* learn
+* explore projects
+* link to personnal profile page
+* my contributions
+
+## About
+
+About the Recon task managing project
+
+## Learn
+
+Tutorials on how to submit a task, and how to contribute to a task
+  
+## Personnal profile page
+
+* see pic, name, level
+* edit personnal info
+  * pic
+  * full name
+* ask for personnal interests? (R-wise)
+* different levels of notifications
+
+# Other
 
 Ideas:
 
@@ -29,3 +64,9 @@ Ideas:
 * automatic request notification? (twitter? email for those who wish? etc)
 * badge system to reward users? (low priority)
 
+Questions
+
+* how will users assigned to a given task be informed of any new activity regarding that task (the person who opened it and the persion who took it on)
+* database
+* authorisations for tasks
+* 
