@@ -62,7 +62,9 @@ Ideas:
 
 * Mobile compatible
 * automatic request notification? (twitter? email for those who wish? etc)
-* badge system to reward users? (low priority)
+* gamify?
+  * badge system to reward users? (low priority) 
+  * Should we compute a recon score that each task is worth? According to difficulty and time and urgency 
 
 Questions
 
