@@ -5,11 +5,13 @@ date: "17/07/2020"
 output: html_document
 ---
 
+# Recon
+
 Recon – lifecycle
 
 * where did recon come from?
 * Where is it now? 
-* Where is it going? what is recon’s ambition?
+* Where is it going? what are recon’s ambitions?
 
 Recon development
 
@@ -24,4 +26,18 @@ Recon in use
 * are some packages more used than others?
 * is there any recon tutorial? Training? How is it taught?
 * is recon self sufficient to deal with an outbreak?
+* how to Recon members and Recon users communicate outside the slack? How mush is the Slack used? How much of the Recon users are on the slack?
+
+# Task manager
+
+* need to talk about the task lifecycle (cf doc: https://docs.google.com/document/d/1nJ-3z9_Sjt1H5QObYqcCJwlX12t9PWyj6JVMF-_GljE/edit)
+* Who will authorise the new tasks? Manually? Automatic?
+* Platform/domain name?
+* Data base? AWS, Rstudio? (see 17/07 notes)
+* Who will write the platform content? (about, help, etc.) see doc
+
+# Other
+
+* Is the cran view an infectious disease epi or general epi (including environmental) or just field epi?
+* who to/how/when do I bill my hours?
 
