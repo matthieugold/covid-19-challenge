@@ -6,6 +6,7 @@ output: html_document
 ---
 
 * [Project log](project_log.html): project log   
+* [Task lifecycle](https://docs.google.com/document/d/1nJ-3z9_Sjt1H5QObYqcCJwlX12t9PWyj6JVMF-_GljE/edit?ts=5f1ece17): all the different steps a task will go through from creation to completion
 * [Communication](communication.html): document listing different communities that could be involved in the success of the project   
 * [Training resources](training.html): interesting training resources gathered during research  
 * [Website specification](website_specs.html): list of all specifications the platform will need to meet  
