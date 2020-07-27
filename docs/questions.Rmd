@@ -35,6 +35,7 @@ Recon in use
 * Platform/domain name?
 * Data base? AWS, Rstudio? (see 17/07 notes)
 * Who will write the platform content? (about, help, etc.) see doc
+* OK to connect with github credentials?
 
 # Other
 

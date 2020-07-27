@@ -1,0 +1,41 @@
+---
+title: "Meeting - Ben + Matt"
+author: "M. Rolland"
+date: "27/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: BOU + MR
+
+Agenda:
+
+* Status update
+* Link with github?
+  
+Done since last time:
+
+* template on netlify: https://infallible-meitner-feacd3.netlify.app/#/
+  * home page
+  * about etc
+  * task visualisation
+  * task creation
+
+Meeting notes:
+
+* we can delete labels from tasks as they will be set by recon users (see [task lifecycle doc](https://docs.google.com/document/d/1nJ-3z9_Sjt1H5QObYqcCJwlX12t9PWyj6JVMF-_GljE/edit?ts=5f1ece17))
+* need github credentials to connect
+* add learn page
+* discussed  lifecycle
+* will create a fake github account that we can play around with
+
+To do:
+
+* focus on linking issues with github, should be OK for Thursday (29-07-2020)
+
+Questions:
+
+* OK to connect using guthub credentials?

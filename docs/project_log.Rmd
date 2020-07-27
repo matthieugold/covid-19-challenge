@@ -53,3 +53,4 @@ section Benjamin
 2020-07-10: [Launch meeting](meeting_notes/2020-07-10_launch_meeting.html)  
 2020-07-17: [Meeting - Ben + Matt](meeting_notes/2020-07-17_meeting.html)  
 2020-07-24: [Meeting - Ben + Matt](meeting_notes/2020-07-24_meeting.html)  
+2020-07-27: [Meeting - Ben + Matt](meeting_notes/2020-07-27_meeting.html)  
