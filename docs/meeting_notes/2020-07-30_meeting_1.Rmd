@@ -13,11 +13,22 @@ Present: BOU + MR
 
 Agenda:
   
+  * status update
+  
 Done since last time:
+
+* github credentials signup work
+* sending the issue to github OK
 
 Meeting notes:
 
+* We may need to have a server [AWS,AZURE] in order to run some authentication. 
+* We will also need to host the website on a purchased domain.
+
 To do:
+
+* Ben: figure out how to notify board panel as soon as an issue is opened
+* BEn: follow 
 
 Questions:
 

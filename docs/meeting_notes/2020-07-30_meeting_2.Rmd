@@ -17,7 +17,19 @@ Done since last time:
 
 Meeting notes:
 
+* OK github ID
+* early stage assesment OK for week august 17-20
+* everything that can be done on github will be done on github
+* see notes on [this doc](../questions.html) for all questions
+* and also notes on [task lifecycle]() for Thibaut's input
+
 To do:
 
-Questions:
+* check R4Epi
+* check trend breaker (recon)
+* message sur Rdev ou Rhelp si il doit etre inclus sur la cran view
+* early stage assesment
+  * thibaut m'envoie une liste de personnes a contacter, j'écris un draft de mail (voici le covid 19 challenge, on aimerait vous inclure dans le panel, le panel consiste a ca ca ca et on voit qui répond)
+* Thibaut: contact R consortium for billing invoice
+* Matt: propose a task validation flow
 
