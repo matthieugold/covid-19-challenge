@@ -28,7 +28,8 @@ Meeting notes:
 To do:
 
 * Ben: figure out how to notify board panel as soon as an issue is opened
-* BEn: follow 
+* BEn: follow the task lifecycle to match theexperience
+* Ben: figure out the server needs so we can figure out the best solution (cost and security wise)
 
 Questions:
 
