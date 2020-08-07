@@ -17,13 +17,10 @@ library(pander)
 
 ## Useful links
 
-[Project repo](https://github.com/matthieugold/covid19_challenge)
-
-[Link to Trello](https://trello.com/b/PQch7ney/covid19-challenge)
-
-[Link to Slack](https://app.slack.com/client/T2SFJJQRL/G016PGWRPAA/thread/C2SFJJV8E-1594388640.056600)
-
-[Documents created by Matthieu](https://matthieugold.github.io/covid-19-challenge/docs/document_list.html)
+* [Project repo](https://github.com/matthieugold/covid19_challenge)  
+* [Link to Trello](https://trello.com/b/PQch7ney/covid19-challenge)  
+* [Link to Slack](https://app.slack.com/client/T2SFJJQRL/G016PGWRPAA/thread/C2SFJJV8E-1594388640.056600)  
+* [Documents created by Matthieu](https://matthieugold.github.io/covid-19-challenge/docs/document_list.html)  
 
 ## Time line
 
