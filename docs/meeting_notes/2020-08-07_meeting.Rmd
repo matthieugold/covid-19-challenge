@@ -19,9 +19,19 @@ Agenda:
   
 Done since last time:
 
+* listed server needs OK
+* link between tasks and platform OK
+
 Meeting notes:
+
+* use google sheets to validate a task
+* possible to have an intermediate process to validate tasks
+* all dates OK for early stage assessment
+* possible to create a user page with mist of tasks and closing button
 
 To do:
 
-Questions:
+* set up google sheets task validation process
+* set up user page with list of tasks task closure
+* me: send out example + text
 
