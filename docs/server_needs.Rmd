@@ -1,0 +1,16 @@
+---
+title: "Server needs"
+author: "M. Rolland"
+date: "07/08/2020"
+output: html_document
+---
+
+E-mail from Ben 07-08-2020
+
+> I simply need a server to host an [api for a single /POST request](https://github.com/benjaminortizulloa/plumber-git-oauth/blob/master/oauth.R). This request is to authenticate a github user. Due to security issues, GitHub won't allow the authentication to occur in a static .js file - hence the need for a server.
+
+>I'm running the server on Heroku's free tier. This should be enough, but I'll verify. At worst we may run into performance issues [5-10 seconds for a request]. I believe someone mentioned a partnership with RStudio. If that is the case it might be worth reaching out to see if we can obtain [RStudio Connect](https://www.rplumber.io/articles/hosting.html#rstudio-connect) for free. This might help us avoid any potential lag.
+
+>Currently, the api is hosted here: https://arcane-depths-10569.herokuapp.com/test. The domain for the api doesn't matter since it is only needed on the backend.
+
+>The website itself will be static and won't need a server outside of authentication. It is already hosted on netlify and we can port it over to a new domain once we buy it. That said, we should start thinking about domain names: r-epidemics is available....
