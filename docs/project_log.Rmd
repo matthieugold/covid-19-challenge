@@ -56,3 +56,4 @@ section Benjamin
 2020-07-27: [Meeting - Ben + Matt](meeting_notes/2020-07-27_meeting.html)  
 2020-07-30: [Meeting - Ben + Matt](meeting_notes/2020-07-30_meeting_1.html)  
 2020-07-30: [Meeting - Thibaut + Matt](meeting_notes/2020-07-30_meeting_2.html)  
+2020-08-07: [Meeting - Ben + Matt](meeting_notes/2020-08-07_meeting.html)  
