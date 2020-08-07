@@ -5,6 +5,8 @@ date: "07/08/2020"
 output: html_document
 ---
 
+# Server
+
 E-mail from Ben 07-08-2020
 
 > I simply need a server to host an [api for a single /POST request](https://github.com/benjaminortizulloa/plumber-git-oauth/blob/master/oauth.R). This request is to authenticate a github user. Due to security issues, GitHub won't allow the authentication to occur in a static .js file - hence the need for a server.
@@ -14,3 +16,12 @@ E-mail from Ben 07-08-2020
 >Currently, the api is hosted here: https://arcane-depths-10569.herokuapp.com/test. The domain for the api doesn't matter since it is only needed on the backend.
 
 >The website itself will be static and won't need a server outside of authentication. It is already hosted on netlify and we can port it over to a new domain once we buy it. That said, we should start thinking about domain names: r-epidemics is available....
+
+# GDPR
+
+Ben on Trello:
+
+> with regards go GDPR: github is incharge of storing user information. On login github explicitly states the permissions we will be using. Screen Shot 2020-08-07 at 1.11.34 AM.png
+
+
+
