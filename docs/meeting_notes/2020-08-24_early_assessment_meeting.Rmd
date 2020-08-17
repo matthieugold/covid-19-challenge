@@ -1,0 +1,31 @@
+---
+title: "Early assessment meeting"
+author: "M. Rolland"
+date: "24/08/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: Advisory board (list)
+
+Agenda:
+
+* Presentation (Matt)
+* Demo (Ben)
+* Discussion
+  * general workflow
+  * task validation process
+  * website organisation
+  * other points
+* Plan initial release
+
+Done since last time:
+
+Meeting notes:
+
+To do:
+
+
