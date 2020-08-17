@@ -19,6 +19,10 @@ library(kableExtra)
 
 This document lists all major covid-19 and epidemiology packages.
 
+To do:
+
+* checkout https://rviews.rstudio.com/2020/08/10/us-covid-19-forecasts/  
+
 # Covid 19 specific
 
 ## Automated search
