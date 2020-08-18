@@ -12,11 +12,28 @@ knitr::opts_chunk$set(echo = TRUE)
 Present: BOU + MR
 
 Agenda:
+
+* look at google sheets task validation process
+* look at user personal page
   
 Done since last time:
 
+* me: submit abstract, organise meetings, advisory panel
+* ben: reorganise validation process (no more google sheets), change the task listing
+
 Meeting notes:
 
+* in the new version you need to know which package to populate
+* no need anymore for user individual page, there will be a review page different for admins and users
+* issues opened outside from the platform will also appear
+* we need to think also of the R developer side => keep both panels open AND contribute
+* is it possible to send notification to admins?
+* the user will see the reviews for their issues
+* add filter to the contribute page
+
 To do:
+  
+* think about how the Ruser can filter through all issues
+* add non admin review
 
 
