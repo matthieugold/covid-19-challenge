@@ -1,0 +1,12 @@
+---
+title: "Platform presentation"
+author: "M. Rolland"
+date: "07/08/2020"
+output: html_document
+---
+
+Make it easy for epis to open issues  
+Use github as much as possible  
+Make it easy for R users to contribute  
+
+    
