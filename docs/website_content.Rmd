@@ -17,11 +17,24 @@ The COVID-19 challenge is an effort to set a direct communication channel betwee
 
 Userfriendly frontend for github issues
 
+--  
+
+Every day professionals are working on the field contributing to the response to COVID19 using tools blabla.
+
+The covid19 issue manager aims to get these professionals the help they need in the quickest and most professional way possible making use of the R community.
+
+Link to RECON, any article on field epi? On how R is used and beneficial?
+
+This project was financed by the R consortium and 
+
 # Learn
 
 See [lifecycle](https://docs.google.com/document/d/1nJ-3z9_Sjt1H5QObYqcCJwlX12t9PWyj6JVMF-_GljE/edit#heading=h.4l7j2el395j0) and do simple visualisation.
 
 Maybe overall visualisation and/or visualisation from the point of view of the issuer and assignee.
+
+
+Once flow is complete. Here add what is a task and not. Here add the task lifecycle. Divide in user side/R volunteer side.
 
 # Tasks
 
