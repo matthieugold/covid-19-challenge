@@ -15,8 +15,21 @@ Agenda:
   
 Done since last time:
 
+* admin dashboard (add admins and reviewers)
+* other edits
+
 Meeting notes:
+
+* free tier server means it's slower is that OK?
 
 To do:
 
+* update task creation sections to match the reconhub task description template + add package menu
+* add link on the my tasks to the github issues
+* add validation for the task creation
+* add filter on tasks in the explore
+
+Questions:
+
+* Is it OK the reviewer has officially created the task?
 
