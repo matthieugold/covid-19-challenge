@@ -15,16 +15,23 @@ Agenda:
 
 * Presentation (Matt)
 * Demo (Ben)
-* Discussion
-  * general workflow
-  * task validation process
-  * website organisation
-  * other points
-* Plan initial release
-
-Done since last time:
+* Discussion points
+  1. general workflow (cf. task lifecycle slide)
+  2. task validation process
+  3. website organisation
+  4. other points regarding the site?
+  5. ok with the name? recon task manager // www.tasks.repidemicsconsortium.org
+  6. get email adress from J. Rickert to ask for Rstudio connect
+  7. next milestones: first release (sept) and second release (oct)
+  8. to be done before first release
+    i. write content
+    ii. site appearance
+    iii. populate tasks
+    iv. what else?
 
 Meeting notes:
+
+
 
 To do:
 
