@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Present: Advisory board (list)
+Present: MR, TJ, BOU, JS, FC, AS
 
 Agenda:
 
@@ -20,7 +20,7 @@ Agenda:
   2. task validation process
   3. website organisation
   4. other points regarding the site?
-  5. ok with the name? recon task manager // www.tasks.repidemicsconsortium.org
+  5. ok with the name? recon task manager // www.tasks.repidemicsconsortium.org  
   6. get email adress from J. Rickert to ask for Rstudio connect
   7. next milestones: first release (sept) and second release (oct)
   8. to be done before first release
@@ -31,8 +31,22 @@ Agenda:
 
 Meeting notes:
 
-
+* Finlay and Janette part of the board (I had misunderstood)
+* regarding task lifecycle: code inclusion not part of the process
+* regarding the review process: 
+  * most important is not necessarily what the task is (it is not a big deal if a bad task is added to the pool) but task priorisation/labelling
+  * try to add a two person validation
+* regarding the task classification: think of a way to get user input on task relevance (eg with a up/down vote system), combined with the original labelling system
+* name OK
+* generally we seem to be on the right track
 
 To do:
 
+* make the task labels on tasks pending review editable
+* add package/repo label to review process
+* remove the people suggestion
+* find a way to include user input in task classification
+* add a follow issue/star option
+* show when a task is resolved
+* automate closing issues
 
