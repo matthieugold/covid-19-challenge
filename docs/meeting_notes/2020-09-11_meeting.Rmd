@@ -1,0 +1,41 @@
+---
+title: "Meeting - Ben + Matt"
+author: "M. Rolland"
+date: "11/09/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: BOU + MR
+
+Agenda:
+
+* Rstudio connect
+* domain name
+* score
+* progress
+
+Done since last time:
+
+* We have Rstudio connect for 12 months
+* added the star as filter
+* added editable labels
+
+Meeting notes:
+
+* had issues to login thubaut's website, 
+* tried again during meeting: not working
+* we have access to Rstudio, ben will move there at some point before we go live
+
+To do:
+
+* get domain name to work, write to Thibaut
+* add the star as link to github favorite
+* add upvote/downvote + score computation + ordering
+* re put repo in the task creation (was wrongly removed)
+* sync the closing with github
+* link person who submitted the task to github issue, they need notification not the reviewer
+* matthieu: write site content
