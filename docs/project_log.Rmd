@@ -57,7 +57,8 @@ section Benjamin
 2020-08-07: [Meeting - Ben + Matt](meeting_notes/2020-08-07_meeting.html)  
 2020-08-17: [Meeting - Ben + Matt](meeting_notes/2020-08-17_meeting.html)  
 2020-08-21: [Meeting - Ben + Matt](meeting_notes/2020-08-21_meeting.html)  
-2020-08-24: [Early assessment meeting](meeting_notes/2020-08-24_early_assessment_meeting.html) 
-2020-08-28: [DSCC19 conf - link to talk](https://www.youtube.com/watch?v=E39BMCJsbx4&list=PL41aTiRjzS9sG2wtz6qusI4ZD2CDMV04O&index=8&t=0s)
-2020-09-04: Meeting - Ben + Matt, no progress
+2020-08-24: [Early assessment meeting](meeting_notes/2020-08-24_early_assessment_meeting.html)   
+2020-08-28: [DSCC19 conf - link to talk](https://www.youtube.com/watch?v=E39BMCJsbx4&list=PL41aTiRjzS9sG2wtz6qusI4ZD2CDMV04O&index=8&t=0s)  
+2020-09-04: Meeting - Ben + Matt, no progress  
 2020-09-11: [Meeting - Ben + Matt](meeting_notes/2020-09-11_meeting.html)  
+2020-09-21: [Meeting - Ben + Matt](meeting_notes/2020-09-21_meeting.html)  

@@ -1,0 +1,46 @@
+---
+title: "Meeting - Ben + Matt"
+author: "M. Rolland"
+date: "21/09/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: BOU + MR
+
+Agenda:
+
+* Rstudio
+* Domain name
+* GitHub opener
+* Up_down vote
+* Can I participate on the output?
+
+Done since last time:
+
+* up/down vote + score
+* added content
+* submission to rstudio conf
+
+Meeting notes:
+
+* Rstudio connect done later
+* Domain name
+  * It will work but it doesn't (because somebody alse within recon is using/has used netlify and is conflicting w/ ben)
+  * Should be working soon
+* It will be possible for the task opener to be the one opening the task on github and not the reviewer as it's at the moment, for that Ben needs from thibaut full access to the github account
+* Up and down vote + score working, will be online soon
+* He will transfer the site to the recon github soon so we can all participate if we wish
+* Ben submitted at Rstudio conf
+
+To do:
+
+* port to Rstudio connect
+* me: send a list of repos to ben from the other packages
+* get domain name to work, write to Thibaut
+* sync the closing with github
+* link person who submitted the task to github issue, they need notification not the reviewer
+* me: write to the others regarding site content/visual
