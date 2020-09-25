@@ -1,0 +1,39 @@
+---
+title: "Meeting - Ben + Matt"
+author: "M. Rolland"
+date: "25/09/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: BOU + MR
+
+Agenda:
+
+* domain name
+* GitHub opener
+* closing issues
+
+Done since last time:
+
+* me: send a list of repos to ben from the other packages
+* me: write to the others regarding site content/visual
+
+Meeting notes:
+
+* Filters not working
+* Bug with the notes in the review
+
+To do:
+
+* need to get security (httpS and not http)
+* sync task opener name
+* closing
+* visual: like main recon site
+* fix filters
+* fiw bug with notes in review
+
+
