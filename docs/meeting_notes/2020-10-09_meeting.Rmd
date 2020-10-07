@@ -1,0 +1,31 @@
+---
+title: "Meeting - Ben + Matt"
+author: "M. Rolland"
+date: "07/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: BOU + MR
+
+Agenda:
+
+* Netlify
+* Rstudio connect
+* Buggy explore page
+* Closing issues
+
+Done since last time:
+
+
+
+Meeting notes:
+
+
+To do:
+
+
+
