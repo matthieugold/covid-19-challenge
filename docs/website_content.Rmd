@@ -25,7 +25,7 @@ Packages who collaborate with the platform mainly include the [suite of RECON pa
 
 This project was financed by the [R consortium](www.r-consortium.org/). (ELABORATE?)
 
-# Learn
+  # Learn
 
 <!-- See [lifecycle](https://docs.google.com/document/d/1nJ-3z9_Sjt1H5QObYqcCJwlX12t9PWyj6JVMF-_GljE/edit#heading=h.4l7j2el395j0) and do simple visualisation.
 
