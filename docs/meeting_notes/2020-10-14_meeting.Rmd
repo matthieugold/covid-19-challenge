@@ -1,0 +1,27 @@
+---
+title: "Meeting - Ben + Matt"
+author: "M. Rolland"
+date: "14/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: BOU + MR
+
+Agenda:
+
+* go through what needs to be done
+
+Done since last time:
+
+* most modifs on the to do list
+* wrote to heroku
+
+Meeting notes:
+
+* will do final modifs before meeting
+
+

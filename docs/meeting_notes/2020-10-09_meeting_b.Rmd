@@ -1,0 +1,49 @@
+---
+title: "Meeting - Thibaut + Matt"
+author: "M. Rolland"
+date: "09/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: TJ + MR
+
+Mee ting notes
+
+1. Launch meeting
+
+* meeting qd je veux avec janetta
+
+2. Remarks on visual
+
+* Bouttons mettre une couleur différente
+* voir avec mesageplus court sur les bouttons
+* le site est sur netlify et avec https
+* mettre un message au dessus de chaque élément: pouce = vote for high priority
+* il préfère le meter que les labels
+* deux barres de complexité et 
+* ou des étoiles ou des thumbs up
+* change bookmark symbol from start to other
+
+3. Mail du mec de serosurvey
+
+* je le renvoie vers slack
+* on essaie de l’orienter vers la plateforme
+
+4. R-consortium
+
+* répond avec Thibaut en cc
+* demander une ETA
+
+
+5. On the RECON page we should add a link to the tasking manager?
+
+* mettre un post pour parler du projet, tweet, partage, 
+* lien depuis la page resources, projects, etc
+
+6. Une fois que c’est en ligne:
+* demander dans recon
+

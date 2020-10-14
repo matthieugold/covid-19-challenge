@@ -65,4 +65,5 @@ section Benjamin
 2020-09-25: [Meeting - Ben + Matt](meeting_notes/2020-09-25_meeting.html)  
 2020-09-28: [Meeting - Ben + Matt](meeting_notes/2020-09-28_meeting.html)  
 2020-10-02: Recon general assembly   
+2020-10-09: [Meeting - Thibaut + Matt](meeting_notes/2020-10-09_meeting_b.html)  
 2020-10-09: [Meeting - Ben + Matt](meeting_notes/2020-10-09_meeting.html)  

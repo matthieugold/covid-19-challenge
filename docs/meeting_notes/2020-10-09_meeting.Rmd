@@ -20,12 +20,17 @@ Agenda:
 
 Done since last time:
 
-
+* netlify OK
 
 Meeting notes:
 
+* issue with database from heroku: he will reach out to them for help
+* we need an actual server AWS or AZURE
+* Rstudio connect is not a server it’s a program
+* ben will write to them implying that we may have it free
+* install nodejs and edit and render the html
 
 To do:
 
-
-
+* Finalise website (re to do list)
+* write to heroku for server
