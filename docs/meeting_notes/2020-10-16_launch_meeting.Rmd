@@ -1,0 +1,53 @@
+---
+title: "Early assessment meeting"
+author: "M. Rolland"
+date: "16/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: 
+
+Agenda:
+
+* Demo
+* Ben 
+  * what’s left to do behind the scenes?
+  * Heroku?
+* feedback and questions on the functionalities
+* questions:
+* weeks to come:
+  * I have a draft anouncement note ready to post on the site
+  * first fill in tasks
+  * then circulate
+  * I’ll try and validate tasks as much as possible and will come to you guys when I need help
+  * in parallell we’ll update the site continuously until a date we need to settle on for finalisation
+  * in the meantime ben will show me how I can take relay on implementing the stuff and doing minor maintenance
+
+Meeting notes:
+
+* server
+  * first try to get it financed (AWS, Azure etc?)
+* functionning
+  * do you need to be contributor to submit? Ben: just contributor to the package repo
+  * remove the timeline
+  * point all tasks to a "tasks" repo and tag suggested repo maintainer like that task opener does not have to be contributor to repo
+* GDPR: we are just storing the github handle so OK
+* Thibaut saw a bug with the highest priority like/dislike
+* communication steps
+  * to open the tasks recon circle then r-dev twitter
+  * epiet alumni netword (EAN)
+  * MSF/Epicentre
+  * GOARN
+  * WHO: finlay, johhny polanski, olivier le poulain, michel yao
+  * public health england
+
+To do:
+
+* make "tasks" repo and convert assigned repo to suggested repo tag
+* do an explicit list to add the other packages
+* post announcement when site OK
+
