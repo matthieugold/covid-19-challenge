@@ -1,0 +1,36 @@
+---
+title: "Meeting with Ben"
+author: "M. Rolland"
+date: "26/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: MR, BOU
+
+Agenda:
+
+* modifications discussed at launch meeting
+* server
+* task following when moves repo
+
+Meeting notes:
+
+* all modifs OK except security remark (Pierre)
+* Thibaut regarding task tracking
+
+>from a user perspective, it would make sense for the task to still track the issue, as one will want to see where things are at for a given task, irrespective of where this issue is stored. However I suspect this makes things more complicated. It may be good enough to merely have the original github issue point to the new one (on a different repo, possibly outside RECON orga), so the user is only one click away from the current status of the task?
+
+* Ben will add a functionality for developers to add their packages, approved by admins
+
+To do:
+
+* apply security modifs (cf email pierre)
+* automatic package addition
+* check error message upon connection
+* transfer to AWS
+* me: contact Google, AWS, Azure & co
+
