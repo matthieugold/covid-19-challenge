@@ -27,6 +27,7 @@ Present: MR, BOU
 * **security issue**
   * ben has added a security token from github
   * right now 
+  
 To do:
 
 * me: write text regarding package addition
