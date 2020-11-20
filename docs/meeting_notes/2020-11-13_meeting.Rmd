@@ -1,0 +1,38 @@
+---
+title: "Meeting with Ben"
+author: "M. Rolland"
+date: "06/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: MR, BOU
+
+* **server**
+  * AWS free tier sufficient but only lasts one year
+  * it is a good option until we have a proper provider
+  * will be done on monday
+* **error message**
+  * sent him th error will fix
+* **priority issue**
+  * it’s because one of the task’s is undefined priority will be fixed
+* **list of packages**
+  * right now it’s a data base, he will make it a text file so I can link oit
+  * been done, NEED TO WRITE TEXT AND WHERE TO PUT IT
+* task title output (newline in middle of word) 
+  * will fix the format
+* **security issue**
+  * ben has added a security token from github
+  * right now 
+To do:
+
+* me: write text regarding package addition
+* task title should not cut between words
+* edit task after submission before validation?
+* write pop up text on title task with no link
+* task tracked even after moved repo? At least with a link
+* closing issues
+

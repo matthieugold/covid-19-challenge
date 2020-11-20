@@ -69,3 +69,5 @@ section Benjamin
 2020-10-09: [Meeting - Ben + Matt](meeting_notes/2020-10-09_meeting.html)  
 2020-10-16: [Launch meeting](meeting_notes/2020-10-16_meeting.html)  
 2020-10-26: [Meeting - Ben + Matt](meeting_notes/2020-10-26_meeting.html)  
+2020-11-06: [Meeting - Ben + Matt](meeting_notes/2020-11-06_meeting.html)  
+2020-11-13: [Meeting - Ben + Matt](meeting_notes/2020-11-13_meeting.html)  

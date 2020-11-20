@@ -1,0 +1,43 @@
+---
+title: "Meeting with Ben"
+author: "M. Rolland"
+date: "06/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: MR, BOU
+
+* **What happens when task is moved? Is it still tracked?**
+ASK Thibaut if we want them to be tracked once they are moved => Thibaut answered:
+
+>“from a user perspective, it would make sense for the task to still track the issue, as one will want to see where things are at for a given task, irrespective of where this issue is stored. However I suspect this makes things more complicated. It may be good enough to merely have the original github issue point to the new one (on a different repo, possibly outside RECON orga), so the user is only one click away from the current status of the task?”
+
+* **Server needs**
+List of providers: Azure, AWS, Google, cloud ocean/digital ocean, 
+
+* New functionality planned regarding other packages:
+People will be able to add their package, approved by admins
+
+Progress:
+
+a. functionality
+
+* rename "suggested packages" repo to "tasks", redirect all tasks there, implement repoi tagging system **OK**
+* add the other packages **OK**
+* remove timeline **OK**
+* modify "assigned" repo to "suggested" repo **OK**
+* fix the highest priority voting bug **TO DO** 
+* list all suggested repos (I will send you a list in a minute so it's easier for you) **OK**
+* I encounter a random error message on login, it doesn't stop me from logging but it's still there **SEND SCREEN SHOT WHEN IT DOES IT**
+* also I have a friend who said me this (which I don't understand, don't know if it's true or if it matter, so will try to translate): "None of the requests done by the browser to the backend (post a vote, list task etc) are authentified. Which means that other people can vote in my name or get my votes just by knowing my user name (eg: https://arcane-depths-)" **will be done**
+
+
+b. visual
+
+* explore page: move back SUBMIT TASK button to where it was **OK**
+* explore page complexity and priority bars: set to red color (and maybe dark gray for the unfilled part of the bar) **OK**
+
