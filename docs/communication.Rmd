@@ -14,6 +14,26 @@ To do:
 * tutorial (video + text)?
 * ask other member to complete once this is more advanced
 
+Thibaut:
+
+* focus on covid-19 ou bien préciser que ça vaut pour la suite aussi? (car covid-19 bientôt fini)
+* sections for task type: developer/public health
+
+Notes meet thibaut 26/11/2020
+
+* EAN: aymerich paytoo
+* EAN board
+* Epicentre
+* accentuer le besoin d'analyse de données epi
+* 
+
+To do:
+
+* finish submitting sam's tasks
+* write message for the R community
+* write message for the public health community
+* prepare twitter post
+
 # Social media
 
 * twitter (Matthieu)
@@ -43,11 +63,11 @@ Hashtags: #rstats #recon
 * Isped + Alima (Matthieu)
 * Epicentre? (Matthieu)
 * Epiet (Matthieu)
+* J. Larmarange
 
 # Conferences
 
-* user
-* erum
-* amstat
-
+* useR
+* eRum
+* field epi confs?
 

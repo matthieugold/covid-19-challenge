@@ -1,0 +1,45 @@
+---
+title: "Meeting with Ben"
+author: "M. Rolland"
+date: "20/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: MR, BOU
+
+Agenda:
+
+* still error
+
+> still figuring out
+
+* no more prompt for rejection/acception of task
+
+> I'll add to list
+
+* AWS?
+  
+> data still in Heroku
+> will be moved
+
+* Previous to dos
+  * review page pop up text
+  * closing
+  * add package on frontpage **DONE**
+  * explore task title (spaces)
+  * task edition after submission and before validation
+  * task tracking after moving
+
+Notes:
+
+* Rstudio connect = API platform (where he can host the API and averything for te backend
+
+  
+To do:
+
+* confirm with Thibaut about the repos page
+
