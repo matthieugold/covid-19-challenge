@@ -510,13 +510,13 @@ document.addEventListener('DOMContentLoaded', function() {
   function tryEval(code) {
     var result = null;
     try {
-      result = eval(code);
+      result = eval("(" + code + ")");
     } catch(error) {
       if (!error instanceof SyntaxError) {
         throw error;
       }
       try {
-        result = eval("(" + code + ")");
+        result = eval(code);
       } catch(e) {
         if (e instanceof SyntaxError) {
           throw error;
@@ -2975,7 +2975,7 @@ summary {
 
 <h1 class="title toc-ignore">RECON COVID-19 challenge</h1>
 <h3 class="subtitle">Project log</h3>
-<h4 class="date">last modified 2020-11-20</h4>
+<h4 class="date">last modified 2021-02-24</h4>
 
 </div>
 
@@ -2994,8 +2994,8 @@ summary {
 </div>
 <div id="time-line" class="section level2">
 <h2>Time line</h2>
-<div id="htmlwidget-ca5a7da69bbe459e9a62" style="width:100%;height:288px;" class="DiagrammeR html-widget"></div>
-<script type="application/json" data-for="htmlwidget-ca5a7da69bbe459e9a62">{"x":{"diagram":"\ngantt\ndateFormat  YYYY-MM-DD\ntitle RECON COVID-19 CHALLENGE TIMELINE\n\nsection Milestones\n1. setup                      :done,          overall_1,   2020-07-10, 1d\n2. early stage assessment     :active         overall_2,  after overall_1, 2020-08-07   \n3. initial release            :               overall_3,  2020-08-08, 2020-08-30\n4. mid-stage assessment       :               overall_4,  after overall_3, 2020-09-27\n5. second release             :               overall_5,  after overall_4, 2020-10-10\n6. task view epidemics        :               overall_6,  after overall_5, 2020-10-25\n7. final assessment           :               overall_7,  after overall_6, 2020-11-27\n\nsection Matthieu\n\nsection Benjamin\n"},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-8a298579f3b36cf665db" style="width:100%;height:288px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-8a298579f3b36cf665db">{"x":{"diagram":"\ngantt\ndateFormat  YYYY-MM-DD\ntitle RECON COVID-19 CHALLENGE TIMELINE\n\nsection Milestones\n1. setup                      :done,          overall_1,   2020-07-10, 1d\n2. early stage assessment     :active         overall_2,  after overall_1, 2020-08-07   \n3. initial release            :               overall_3,  2020-08-08, 2020-08-30\n4. mid-stage assessment       :               overall_4,  after overall_3, 2020-09-27\n5. second release             :               overall_5,  after overall_4, 2020-10-10\n6. task view epidemics        :               overall_6,  after overall_5, 2020-10-25\n7. final assessment           :               overall_7,  after overall_6, 2020-11-27\n\nsection Matthieu\n\nsection Benjamin\n"},"evals":[],"jsHooks":[]}</script>
 </div>
 <div id="log" class="section level2">
 <h2>Log</h2>
@@ -3022,7 +3022,10 @@ summary {
 2020-10-16: <a href="meeting_notes/2020-10-16_meeting.html">Launch meeting</a><br />
 2020-10-26: <a href="meeting_notes/2020-10-26_meeting.html">Meeting - Ben + Matt</a><br />
 2020-11-06: <a href="meeting_notes/2020-11-06_meeting.html">Meeting - Ben + Matt</a><br />
-2020-11-13: <a href="meeting_notes/2020-11-13_meeting.html">Meeting - Ben + Matt</a></p>
+2020-11-13: <a href="meeting_notes/2020-11-13_meeting.html">Meeting - Ben + Matt</a><br />
+2020-11-20: <a href="meeting_notes/2020-11-20_meeting.html">Meeting - Ben + Matt</a><br />
+Need to add missing meeting notes<br />
+2021-02-24: <a href="meeting_notes/2021-02-24_meeting.html">Meeting - Plan for V2</a></p>
 </div>
 
 

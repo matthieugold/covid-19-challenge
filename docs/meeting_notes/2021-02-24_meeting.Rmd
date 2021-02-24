@@ -1,0 +1,77 @@
+---
+title: "Plan for V2 meeting"
+author: "M. Rolland"
+date: "24/02/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Present: MR, BOU, TJ, CT
+
+# Agenda
+
+* platform status
+  * not used...
+  * need to communicate
+    * Ideas?
+    * Conferences?
+  * server status? => ben
+* for V2 to do/feedback
+  * closing issues (stay + add name)
+  * send me a notification when a task is submitted
+  * send opener a notification when task is rejected (I believe right now it is just through the My Tasks page right?)
+  * content text (participative google doc https://docs.google.com/document/d/1NoZazodlATptdcdANyuGp7K7wnGsZ3H48-N9hyFzXF8/edit#)
+  * add more info on the behind the scenes process + link to github (added)
+  * add video walkthrough content
+  * categorise/tag issues
+  * gamify?
+  * Design?
+* Beyond v2
+  * I am OK to continue validating tasks
+  * Ben needs to show us (who?) how to edit: plan meeting
+  * Communication (community manager)
+  * Design/Content
+* task view
+  * near to final
+  * would need to regroup packages and write specific summary text
+  
+# Notes
+
+* Server
+  * created an automated cran job to activate server
+  * to transfer to google there is some cleaning work to be done
+  * for now we will not need to tranfer
+* Communication at our level
+  * Write back on r-dev, recon slack
+  * R-help? Need to check back
+  * maybe I should email the r-dev maintainer to ask where I should write
+  * r-bloggers
+  * R-Ladies
+  * conferences: webinars, online
+* Plan handover documentation also, include as many as possible
+* Task view
+  * github repo as a backend by Tim
+  * need to contact CRAN: through Jo Rickert
+* Wrapping up meeting on a friday evening
+
+# To do (within 2 weeks)
+
+* Ben
+  * Add tags to task creation and to explore filter
+  * Send me (Matthieu) an email when a task is opened
+  * Send opener an email when task is rejected with explanation for rejection
+* Me
+  * Prepare tags for opened tasks
+  * Prepare reminder for ben :)
+  * Communication
+    * see notes above (r-dev, r-ladies, etc)
+    * re contact r-dev
+  * Contact Jo Rickert for task view
+* Others
+  * check task view: https://docs.google.com/document/d/183T-GmOs3STSUcYpFMP42dU0QZ2G9l1DUm6-2CoRvNc/edit
+  * check website text: https://docs.google.com/document/d/1NoZazodlATptdcdANyuGp7K7wnGsZ3H48-N9hyFzXF8/edit#
+
+

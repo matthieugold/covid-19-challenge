@@ -63,7 +63,7 @@ Mainly from [Top 100 R resources on Novel COVID-19 Coronavirus - 12-03-2020](htt
 
 ```{r echo = TRUE}
 # list epidemiology packages
-epi <- pkg_search(query="epidemiology epidemic",size=200)
+epi <- pkg_search(query="epidemiology epidemic epi transmission outbreak",size=200)
 ```
 
 

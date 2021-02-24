@@ -11,10 +11,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Short name: InfectiousEpidemiology
-
+  
 Short description: Infectious diseases epidemiology
 
-Maintainer:	Matthieu Rolland <mark>devrait-être Thibaut?</mark>  
+Maintainer:	Thibaut Jombart 
 Contact:	mj.rolland at gmail.com  
 Version:	  
 URL:	
