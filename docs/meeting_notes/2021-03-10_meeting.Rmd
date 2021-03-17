@@ -1,0 +1,36 @@
+---
+title: "Website handover"
+author: "M. Rolland"
+date: "24/02/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Agenda
+
+Ben will show us how to edit the site.
+  
+# Notes
+
+* need to clone api (https://github.com/reconhub/task-covid19-api) AND webpage (https://github.com/reconhub/task-covid19-webpage) separately
+* first install npm (necessary to install vue, link: https://www.npmjs.com/get-npm )
+* then install vue `npm install vue`
+* vue is java script library for the frontend
+* run `npm install` installs all the javascript dependencies and packages
+* all main documents in the /src folder
+* views are the main pages
+* general workflow
+  * edit the components (eg call to action) and update html
+* Once changes are done locally commit changes
+* if we want to modify the backend we need an .Renviron file from ben which is not on github because it contains sensitive information (it is also necessary to modify the front end locally)
+* docker is used because heroku requires it to run the plumber API
+
+# To do
+
+* write to administrator of r-help at the bottom of email
+* send meeting notes to others present in the meeting before validating them
+
+
